@@ -39,7 +39,7 @@
 ---
 
 ## 🤖 Live Chatbot Link
-https://dialogflow.cloud.google.com/#/agent/nutriwell-chatbot-sa-1--trbi
+https://dialogflow.cloud.google.com/#/agent/nutriwell-chatbot-sa-1--trbi/intents 
 
 
 
